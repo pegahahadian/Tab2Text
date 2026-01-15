@@ -6,8 +6,5 @@ The code converts structured tabular records (demographics, imaging, biomarkers,
 
 The design follows a hybrid architecture:
 
-Deterministic template verbalizer for guaranteed factual correctness
-
-Learnable content selector to decide what information to mention
-
-Quantum-ready selector interface (classical baseline provided)
+**Deterministic template verbalizer for guaranteed factual correctness**
+**Learnable content selector to decide what information to mention**
